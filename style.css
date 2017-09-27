@@ -27,4 +27,8 @@
   font-family: 'Tinos', serif;
   color: #FFFBFC;
   font-size: 40px;
+
+body{
+  background-size:cover;
+  background-image: url("Images/Picture2.png");
 }
