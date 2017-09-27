@@ -1,5 +1,5 @@
 .Title{
-  color:Black;
+  color: #C7EDE4;
   text-align: center;
   font-size: 150px;
   font-family: 'Cabin Sketch', cursive;
@@ -14,19 +14,30 @@
 }
 #romanceTitle{
   color: #ff0066;
-  position: absolute;
+  /*position: absolute;
       right: 0px;
-      width: 300px;
+      width: 300px;*/
   font-size: 100px;
   font-family: 'Rufina', serif;
 }
 
-#Quote{
+#horrorquote{
   font-family: 'Tinos', serif;
   color: #820B8A;
   font-size: 40px;
+}
+
+#lovequote{
+  font-family: 'Tinos', serif;
+  color: #820B8A;
+  font-size: 40px;
+}
 
 body{
   background-size:cover;
   background-image: url("Images/Picture2.png");
+}
+
+.col {
+
 }
