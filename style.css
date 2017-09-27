@@ -1,6 +1,5 @@
-h1{
-  color:red;
-}
-body {
-    background-image: url("Images/this.gif");
+
+body{
+  background-size:cover;
+  background-image: url("Images/Picture2.png");
 }
