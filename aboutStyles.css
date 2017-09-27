@@ -11,17 +11,18 @@ body {
     h1{
       color:white;
       text-align: center;
-      font-size: 150px;
+      font-size: 140px;
     }
 
     h2{
       color:white;
       text-align: left;
-      font-size: 50px;
+      font-size: 20px;
     }
 
     p{
       color:white;
       text-align: left;
       font-size: 30px;
+      font-family: Verdana;
     }
