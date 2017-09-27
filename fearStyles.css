@@ -1,0 +1,10 @@
+.fearTitle{
+  font-size: 80px;
+  color: #C7EDE4;
+  text-align: center;
+  font-family: 'Cabin Sketch', cursive;
+}
+body{
+  background-size:cover;
+  background-image: url("Images/afraidDark.gif");
+}
